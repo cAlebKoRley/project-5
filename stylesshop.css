@@ -1,0 +1,211 @@
+.container{
+width: 100%;
+display: flex;
+margin: 32px;
+height: 600px;
+flex-direction: row;
+flex-wrap: wrap;
+
+}
+
+
+.div1{
+    height:350px;
+    width: 350px;
+    display: inline-flex;
+    justify-content: flex-start;
+    margin: 2rem;
+    background-color:white;
+    flex-direction: column;
+}
+
+
+.div2{
+    height:350px;
+    width: 350px;
+    display: inline-flex;
+    justify-content: flex-start;
+    margin: 2rem;
+    background-color:white;
+    flex-direction: column;
+}
+
+
+
+.div3{
+    height:350px;
+    width: 350px;
+    display: inline-flex;
+    justify-content: flex-start;
+    margin: 2rem;
+    background-color:white ;
+    flex-direction: column;
+}
+
+
+
+.div4{
+    height:350px;
+    width: 350px;
+    display: inline-flex;
+    justify-content: flex-start;
+    margin: 2rem;
+    background-color:white ;
+    flex-direction: column;
+}
+
+.div5{
+    height:350px;
+    width: 350px;
+    display: inline-flex;
+    justify-content: flex-start;
+    margin: 2rem;
+    background-color:white;
+    flex-direction: column;
+}
+
+.div6{
+    height:350px;
+    width: 350px;
+    display: inline-flex;
+    justify-content: flex-start;
+    margin: 2rem;
+    background-color:white;
+    flex-direction: column;
+}
+
+
+.div7{
+    height:350px;
+    width: 350px;
+    display: inline-flex;
+    justify-content: flex-start;
+    margin: 2rem;
+    background-color:white ;
+    flex-direction: column;
+}
+
+
+.div8{
+    height:350px;
+    width: 350px;
+    display: inline-flex;
+    justify-content: flex-start;
+    margin: 2rem;
+    background-color:white ;
+    flex-direction: column;
+}
+
+
+.div9{
+    height:350px;
+    width: 350px;
+    display: inline-flex;
+    justify-content: flex-start;
+    margin: 2rem;
+    background-color:white ;
+    flex-direction: column;
+}
+
+.div10{
+    height:350px;
+    width: 350px;
+    display: inline-flex;
+    justify-content: flex-start;
+    margin: 2rem;
+    background-color:white;
+    flex-direction: column;
+}
+
+.div11{
+    height:350px;
+    width: 350px;
+    display: inline-flex;
+    justify-content: flex-start;
+    margin: 2rem;
+    background-color:white ;
+    flex-direction: column;
+}
+
+.div12{
+    height:350px;
+    width:350px;
+    display: inline-flex;
+    justify-content: flex-start;
+    margin: 2rem;
+    background-color:white ;
+    flex-direction: column;
+}
+
+.div13{
+    height:350px;
+    width: 350px;
+    display: inline-flex;
+    justify-content: flex-start;
+    margin: 2rem;
+    background-color:white ;
+    flex-direction: column;
+}
+
+.div14{
+    height:350px;
+    width: 350px;
+    display: inline-flex;
+    justify-content: flex-start;
+    margin: 2rem;
+    background-color:white ;
+    flex-direction: column;
+}
+
+.div15{
+    height:350px;
+    width:350px;
+    display: inline-flex;
+    justify-content: flex-start;
+    margin: 2rem;
+    background-color:white ;
+    flex-direction: column;
+}
+
+
+
+.product-card {
+    max-width: 12em;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 1em;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-family: sans-serif;
+    justify-content: space-between;
+  }
+  
+.product-card img{
+    max-width: 93%;
+
+}
+  
+.product-title{
+    font-size: 0.82em;
+    margin: 0.5em 0;
+}
+
+.product-card:hover{
+    background-color: #c5c6c7;
+    color: white;
+}
+
+@media screen and(max-width: 576px){
+.product-card{
+    font-size: 0.9em;
+}
+}
+
+.price{
+    font-size: 0.9em;
+}
+
+.purchase-button{
+     padding: 10px;
+     border:none;
+}
